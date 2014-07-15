@@ -53,3 +53,5 @@ Access the `config.php` script from a browser:
     http://localhost/path-to-project/web/config.php
 
 If you get any warnings or recommendations, fix them before moving on.
+
+3) Установите права 0777 у папок /app/cache, app/logs, web/uploads
